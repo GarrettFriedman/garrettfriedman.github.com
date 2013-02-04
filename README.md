@@ -1,2 +1,0 @@
-garrettfriedman.github.com
-==========================
