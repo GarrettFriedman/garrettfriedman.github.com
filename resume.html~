@@ -21,7 +21,7 @@ Address: 000 Washington St. 00A Boston MA 00000</p>
 <li class="resume_description">GPA:4.00 &nbsp; Dean's List</li>
 </ul>
 
-<h2>Relevant Coursework</h3>
+<h2>Relevant Coursework</h2>
 <ul>
 <li>Computer Science: Introduction to Computer Science</li>
 <li>Computer Science: Web Development</li>
@@ -32,7 +32,7 @@ Address: 000 Washington St. 00A Boston MA 00000</p>
 <li class="resume_list">Harvard Medical School, Boston, Massachusetts<br>
 Goldfeld Lab Intern at the Immune Disease Institute</li>
 
-<li class="resume_description">Researched immunology and gene expression, conducted
+<li class="resume_description">Researching immunology and gene expression, currently conducting
 independent research concerning the genetic mechanism of the induction and
 abrogation of tolerance in TNF</li>
 
@@ -50,6 +50,7 @@ nominee Dr. Izzeldin Abuelaish</li>
 formation of the Daughters for Life Foundation</li>
 
 <li class="resume_list">Tenacity, Boston, Massachusetts</li>
+<li class="resume_description>Managed tennis and reading program for over 70 students</li>
 </ul>
 
 <h2>Skills</h2>
