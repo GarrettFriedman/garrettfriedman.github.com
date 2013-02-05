@@ -16,9 +16,9 @@ Address: 000 Washington St. 00A Boston MA 00000</p>
 
 <h2>Education</h2>
 <ul>
-<li id="resume_list">Bachelor of Biochemistry (expected May 2014)</li>
-<li id="resume_description">Tufts University, Medford, MA,USA</li>
-<li id="resume_description">GPA:4.00 &nbsp Dean's List</li>
+<li class="resume_list">Bachelor of Biochemistry (expected May 2014)</li>
+<li class="resume_description">Tufts University, Medford, MA,USA</li>
+<li class="resume_description">GPA:4.00 &nbsp Dean's List</li>
 </ul>
 
 <h2>Relevant Coursework</h3>
@@ -29,27 +29,27 @@ Address: 000 Washington St. 00A Boston MA 00000</p>
 
 <h2>Professional Experience</h2>
 <ul>
-<li id="resume_list">Harvard Medical School, Boston, Massachusetts<br>
+<li class="resume_list">Harvard Medical School, Boston, Massachusetts<br>
 Goldfeld Lab Intern at the Immune Disease Institute</li>
 
-<li id="resume_description">Researched immunology and gene expression, conducted
+<li class="resume_description">Researched immunology and gene expression, conducted
 independent research concerning the genetic mechanism of the induction and
 abrogation of tolerance in TNF</li>
 
-<li id="resume_list">Tufts University, Medford, Massachusetts <br>
+<li class="resume_list">Tufts University, Medford, Massachusetts <br>
 Levin Regenerative Biology Lab Intern</li>
-<li id="resume_description">Researched development and transplantation of the eye in
+<li class="resume_description">Researched development and transplantation of the eye in
 the Xenopus laevis tadpole</li>
-<li id="resume_description">Researched memory in the Carnorhabditis japonica worm
+<li class="resume_description">Researched memory in the Carnorhabditis japonica worm
 through binary division</li>
 
-<li id="resume_list">University of Toronto, Toronto, Canada</li>
-<li id="resume_description">Researched the "Pathophysiology of Hate" with Nobel Prize
+<li class="resume_list">University of Toronto, Toronto, Canada</li>
+<li class="resume_description">Researched the "Pathophysiology of Hate" with Nobel Prize
 nominee Dr. Izzeldin Abuelaish</li>
-<li id="resume_description">Simultaneously worked with Dr. Abuelaish to solidify the
+<li class="resume_description">Simultaneously worked with Dr. Abuelaish to solidify the
 formation of the Daughters for Life Foundation</li>
 
-<li id="resume_list">Tenacity, Boston, Massachusetts</li>
+<li class="resume_list">Tenacity, Boston, Massachusetts</li>
 </ul>
 
 <h2>Skills</h2>
@@ -61,11 +61,11 @@ formation of the Daughters for Life Foundation</li>
 
 <h2>Activities</h2>
 <ul>
-<li id="resume_list">Coordinator - Oslo Scholars - 
+<li class="resume_list">Coordinator - Oslo Scholars - 
     Tufts University Institute for Global Leadership</li>
-<li id="resume_list">Coordinator - BUILD:Nicaragua/Guatemala - 
+<li class="resume_list">Coordinator - BUILD:Nicaragua/Guatemala - 
     Tufts University Institute for Global Leadership</li>
-<li id="resume_list">Scholar - Synaptic Scholars - 
+<li class="resume_list">Scholar - Synaptic Scholars - 
     Tufts University Institute for Global Leadership</li>
 </ul>
 

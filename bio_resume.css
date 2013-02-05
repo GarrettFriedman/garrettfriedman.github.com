@@ -12,13 +12,13 @@ text-align: center;
 	padding-bottom: 10px;
 	}
 	
-	#resume_list{
+	.resume_list{
  font-weight: bold;
  font-size: 20px;
  padding-top:20px;
  }
  
- #resume_description{
+ .resume_description{
  margin-left: 30px;
  	}
  	
