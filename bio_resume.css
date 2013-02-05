@@ -22,12 +22,9 @@ text-align: center;
  margin-left: 30px;
  	}
  	
- #title_container{ 	
- border: 5px black;
- 	}
- 	
  	#container{
  	border-style: solid;
+ 	padding: 5px;
 	
  	}
 
