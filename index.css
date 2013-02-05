@@ -23,13 +23,13 @@ min-width: 1200px;
 	#top_banner{
 position: fixed;
 top: 0;
-left 0;
+left: 0;
 width: 100%;
 padding-top: 20px;
 padding-bottom: 20px;
 background-color: lightblue; 
 opacity:0.4;
-filter:alpha(opacity=40)
+filter:alpha(opacity=40);
 
 		}
 		
@@ -53,7 +53,7 @@ padding-left: 5px;
 font-family:"Times New Roman",Georgia,Serif;
 font-size: 25px;
 top: 0;
-left 0;
+left: 0;
 			}
 		
 				
