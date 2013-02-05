@@ -3,4 +3,6 @@ display: none;
 	
 	}
 	
-	
+	#dice{
+display: inline;		
+}

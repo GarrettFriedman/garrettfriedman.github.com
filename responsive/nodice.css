@@ -1,4 +1,7 @@
 #dice{
-display: none;	
-	
-	}
+display: none;
+}
+
+#no_dice{
+display: inline;	
+}
