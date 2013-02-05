@@ -1,0 +1,40 @@
+
+#name{
+font-size: 40px;
+font-weight: bolder;
+text-align: center;
+}
+	
+#contact{
+	border-bottom:thick dotted lightblue;;
+	text-align: center;
+	margin-top: -20px;
+	padding-bottom: 10px;
+	}
+	
+	#resume_list{
+ font-weight: bold;
+ font-size: 20px;
+ padding-top:20px;
+ }
+ 
+ #resume_description{
+ margin-left: 30px;
+ 	}
+ 	
+ #title_container{ 	
+ border: 5px black;
+ 	}
+ 	
+ 	#container{
+ 	border-style: solid;
+	
+ 	}
+
+h2{
+font-style: italic;
+font-size: 30px;	
+	
+	}
+ 
+ 
